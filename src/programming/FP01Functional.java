@@ -13,7 +13,8 @@ public class FP01Functional {
         //  printSquaresOfEvenNumbersInListFunctional(numbers);
         //  printCubesOfEvenNumbersInListFunctional(numbers);
 
-        List<String> courses = List.of("Spring", "Spring Boot", "API", "Microservices", "AWS", "PCF", "Azure", "Docker", "Kubernetes");
+        List<String> courses = List.of("Spring", "Spring Boot", "API", "Microservices",
+                "AWS", "PCF", "Azure", "Docker", "Kubernetes");
 
 //        courses.stream()
 //                .forEach(System.out::println);
